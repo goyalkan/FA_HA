@@ -1,0 +1,1 @@
+I have designed full adders using various approaches, including implementations with half adders and logic gates such as XOR,XNOR etc. To evaluate and optimize the performance of these designs, I performed a comparative analysis of power consumption using Verilog simulations on the Xilinx Vivado platform.
